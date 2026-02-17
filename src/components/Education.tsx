@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 import { GraduationCap, Award, BookOpen } from "lucide-react";
 import { Badge } from "./ui/badge";
 import { AnimatedSection, StaggerContainer, StaggerItem } from "./AnimatedSection";
-import { motion } from "motion/react";
+import { motion } from "motion/react"; 
 
 export function Education() {
   return (
