@@ -35,7 +35,7 @@ export function Education() {
             <CardContent className="space-y-4">
               <p>Specialization in Computing and Decision Analytics</p>
               <div className="space-y-2">
-                <p className="text-sm">GPA: 3.78/4.0</p>
+                <p className="text-sm">GPA: 3.93/4.0</p>
                 <p className="text-sm">Relevant Coursework:</p>
                 <div className="flex flex-wrap gap-2">
                   {["Time Series Analysis", "Statistical Learning", "Pattern Recognition", "Data Visualization", "Statistical ML", "Data Mining", "Data Processing at Scale", "Data-Driven Optimization"].map((course, idx) => (
